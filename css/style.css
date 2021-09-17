@@ -1,0 +1,34 @@
+/*********************************************
+
+Here is a description of any special CSS used.
+In this case it's just padding and margin to 0
+and then centring the canvas (and anything else)
+using the CSS Grid.
+
+Also hides overflow.
+
+**********************************************/
+
+body {
+  /* padding: 0; */
+  /* margin: 0; */
+  /* display: grid;  */
+  /* justify-content: center;
+  align-content: center; */
+  /* height: 100vh;  */
+  /* overflow: hidden;  */
+  color: #403E41;
+}
+
+h1{
+  font-family: 'Major Mono Display', monospace;
+  font-size: 2em;
+  margin-top: 8vh;
+  text-align: center;
+}
+
+hr{
+  height: 1.5px;
+  width: 150vh;
+  background: #403E41;
+}
